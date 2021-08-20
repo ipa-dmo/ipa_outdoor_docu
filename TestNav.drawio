@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-20T15:22:35.113Z" agent="5.0 (X11)" etag="gkTT9usUirtrxjFwPRZX" version="14.9.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-08-20T15:31:04.958Z" agent="5.0 (X11)" etag="WiR7gYPGA3hJOWpewn8J" version="14.9.8" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Navigation">
     <mxGraphModel dx="3437" dy="1967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
         <mxCell id="GfsLmEvaizO0xj4gn3vc-0" />
         <mxCell id="GfsLmEvaizO0xj4gn3vc-1" parent="GfsLmEvaizO0xj4gn3vc-0" />
         <UserObject label="Mapping and Localization" link="data:page/id,prtHgNgQTEPvFCAcTncT" id="GfsLmEvaizO0xj4gn3vc-2">
-          <mxCell style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;" parent="GfsLmEvaizO0xj4gn3vc-1" vertex="1">
+          <mxCell style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;strokeWidth=5;" parent="GfsLmEvaizO0xj4gn3vc-1" vertex="1">
             <mxGeometry x="270" y="105" width="1060" height="690" as="geometry">
               <mxRectangle x="220" y="500" width="180" height="23" as="alternateBounds" />
             </mxGeometry>
@@ -105,12 +105,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a-RNjdHXBQ174pXRn1Qw" name="Mapping">
-    <mxGraphModel dx="462" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1837" dy="1967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="Ka8ez7n9a7QdZ7t_4yAI-0" />
         <mxCell id="Ka8ez7n9a7QdZ7t_4yAI-1" parent="Ka8ez7n9a7QdZ7t_4yAI-0" />
         <UserObject label="Mapping" link="data:page/id,ldTAqI2T-_zdcecsA4YL" id="6MaHLs1leE9JKEzJSeug-0">
-          <mxCell style="swimlane;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=24;" parent="Ka8ez7n9a7QdZ7t_4yAI-1" vertex="1">
+          <mxCell style="swimlane;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=24;strokeWidth=5;" parent="Ka8ez7n9a7QdZ7t_4yAI-1" vertex="1">
             <mxGeometry x="1750" y="130" width="1300" height="640" as="geometry">
               <mxRectangle x="1750" y="200" width="180" height="23" as="alternateBounds" />
             </mxGeometry>
